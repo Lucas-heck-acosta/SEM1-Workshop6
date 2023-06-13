@@ -1,0 +1,3 @@
+/Users/lucas/Downloads/repos/workshop6/cmake-build-debug/CMakeFiles/workshop6.dir
+/Users/lucas/Downloads/repos/workshop6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucas/Downloads/repos/workshop6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
